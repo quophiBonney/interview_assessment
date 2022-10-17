@@ -15,17 +15,17 @@ h3, h4 {
 .table-header {
     display: inline-flex;
     width: 100%;
-    border: 2px solid #000;
+    border: 1px solid #000;
 }
 .column-1 {
     width: 20%;
-    border-right: 3px solid #000;
+    border-right: 1px solid #000;
     text-align: center;
 }
 .column-2 {
     width: 70%;
     text-align: center;
-    border-right: 3px solid #000;
+    border-right: 1px solid #000;
 }
 .column-3 {
     width: 10%;
@@ -33,20 +33,20 @@ h3, h4 {
 }
 table {
     width: 100%;
-    border: 2px solid #000;
+    border: 1px solid #000;
 }
 
 .th-1 {
     width: 20.15%;
-    border-right: 3px solid #000;
+    border-right: 1px solid #000;
 }
 th {
-    border-bottom: 2px solid #000;
+    border-bottom: 1px solid #000;
 }
 .th {
     text-align: right;
-    border-right: 2px solid #000;
-    border-bottom: 2px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
     
 }
 tbody {
@@ -55,8 +55,8 @@ tbody {
     text-align: center;
 }
 td {
-    border-bottom: 2px solid #000;
+    border-bottom: 1px solid #000;
 }
 .first-data {
-    border-right: 2px solid #000;
+    border-right: 1px solid #000;
 }
